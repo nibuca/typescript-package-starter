@@ -1,0 +1,5 @@
+
+Following directions here: https://dev.to/dalenguyen/create-your-first-github-package-564f
+
+$ git clone https://github.com/dalenguyen/typescript-package-starter.git
+$ npm install
