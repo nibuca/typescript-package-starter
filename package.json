@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "git+https://github.com/nibuca/typescript-package-starter.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
@@ -31,11 +31,13 @@
     "ts-node": "^9.0.0",
     "typescript": "~4.0.3"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  },
   "engines": {
     "node": ">=8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dalenguyen"
+    "registry": "https://npm.pkg.github.com/@nibuca"
   }
 }
